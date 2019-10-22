@@ -146,7 +146,7 @@ Contenido a incluir
     <class>es.uvigo.mei.pedidos.entidades.Pedido</class>
     
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/pruebas_si"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/pruebas_si?serverTimezone=UTC"/>
       <property name="javax.persistence.jdbc.user" value="si"/>
       <property name="javax.persistence.jdbc.password" value="si"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
