@@ -1,4 +1,4 @@
-# Ejemplo MAVEN y JPA Básico  (SI-2018, semana 1)
+# Ejemplo MAVEN y JPA Básico  (SI-2019, semana 1)
 Ejemplo de creación de proyectos Maves y uso desde línea de comandos
 Ejemplo de mapeo JPA
 
